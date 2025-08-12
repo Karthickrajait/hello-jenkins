@@ -1,1 +1,1 @@
-print('Hello from karthick, welcome all lets learn jenkins ')
+print('Hello from karthick, welcome all')
